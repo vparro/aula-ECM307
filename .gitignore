@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+# Matlab / Simulink
+*.asv
+*.autosave
+*.slxc
+*.mexmaci64
+*.mexw64
+slprj/
+codegen/
+*_quarc_win64/
+*_grt_rtw/
+octave-workspace
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+# Nunca publicar: entregas de alunos, provas, gabaritos, notas, gravações de alunos
+submissions*/
+*[Gg]abarito*
+*[Pp]rova*
+*[Nn]otas*
+banco/
+banco_trechos/
